@@ -8,7 +8,6 @@ import 'package:portfolio/View/components/drawer.dart';
 import 'package:portfolio/View/components/footer.dart';
 import 'package:portfolio/View/components/my_profile_intro.dart';
 import 'package:portfolio/View/components/recent_projects.dart';
-import 'package:portfolio/View/components/recent_work_experiences.dart';
 import 'package:portfolio/View/components/social_icons.dart';
 import 'package:portfolio/View/components/top_bar.dart';
 import 'package:portfolio/View/components/top_skills.dart';
