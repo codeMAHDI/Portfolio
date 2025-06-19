@@ -17,7 +17,7 @@ class Footer extends StatelessWidget {
             ),
             TextButton(
                 onPressed: () {
-                  launchUrl(Uri.parse('https://www.facebook.com/share/1FCPTZvvvh/'),);
+                  launchUrl(Uri.parse('https://www.facebook.com/moshiur.rahman.252841'),);
                 },
                 child: const Text(
                   'Moshiur Rahamn',

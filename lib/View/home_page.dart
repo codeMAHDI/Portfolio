@@ -62,7 +62,6 @@ class HomePage extends StatelessWidget {
                   SizedBox(height: 55),
                   RecentProject(),
                   SizedBox(height: 55),
-                 // RecentWorkExperiences(),
                   SizedBox(height: 55),
                   ContactForm(),
                   SizedBox(height: 55),
